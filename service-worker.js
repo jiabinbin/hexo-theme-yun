@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "27c0c43d0a815292f8d9442b732fae5a"
+    "revision": "9700c3c722900009f7f669c9cfb9c44c"
   },
   {
     "url": "assets/css/0.styles.6aa9fc80.css",
@@ -106,56 +106,56 @@ self.__precacheManifest = [
     "revision": "d04b46ea6af9eefad21af7c19989ef69"
   },
   {
-    "url": "assets/js/app.d9b9fa8b.js",
-    "revision": "bed792261a173371dde6eca721f97fb3"
+    "url": "assets/js/app.8fc5e280.js",
+    "revision": "fbd1e008642e417c7b904e49ced0583e"
   },
   {
     "url": "changelog.html",
-    "revision": "7fe9c509f4d7515bcc27f7a50bc55b40"
+    "revision": "d5b2beb69cacda631c3a8930d04dc029"
   },
   {
     "url": "en/guide/index.html",
-    "revision": "2d47f92511321e8f9299bb5be8d16483"
+    "revision": "2d3d0fccb48d62a04175488d580e1b66"
   },
   {
     "url": "en/index.html",
-    "revision": "85b137c3eecfac1d1cbe01e7a091b382"
+    "revision": "015dfad0bbf8850d99a34bbe7951d83a"
   },
   {
     "url": "guide/about.html",
-    "revision": "a2a08041626b5869656a72d00d6dfc7d"
+    "revision": "3b90a6c24cd03b1cf9f1c7935ccc9209"
   },
   {
     "url": "guide/additional-package-support.html",
-    "revision": "f0bf0907a7609aee0375e4a35a918692"
+    "revision": "fe8ee23ba7ca4b4d3a26cac8b82055fa"
   },
   {
     "url": "guide/config.html",
-    "revision": "f4958cf0265568ec7e83812218d7e86b"
+    "revision": "2e98ec3405629216f83349f7728deb72"
   },
   {
     "url": "guide/faq.html",
-    "revision": "06ff66461d5fd06934c0cfd1382333c6"
+    "revision": "09ac8ca4c13d8af94317dbf8d8ce1b6e"
   },
   {
     "url": "guide/index.html",
-    "revision": "ea6127b9a550a6834fb64ebf1f7cfe98"
+    "revision": "aaeec288c8abaee5b5819b3b8228242f"
   },
   {
     "url": "guide/page.html",
-    "revision": "20d0722a38aea6b44ffe0fa532e51420"
+    "revision": "ee6dd706283b21b147660a2292c44522"
   },
   {
     "url": "guide/third-party-support.html",
-    "revision": "780f80614d80f04ae2500d636489beaa"
+    "revision": "1952a8f2654adf684fba7dfcf71d4968"
   },
   {
     "url": "guide/Todo.html",
-    "revision": "26d88d3ff2c7f12e56e95f8a6e0384c8"
+    "revision": "f73b5969cd5ea2292aa518aac3f2c16a"
   },
   {
     "url": "index.html",
-    "revision": "828dd3b786ab95fb3952c2bd15096d55"
+    "revision": "6662bb2078df70083e38e769828c20f1"
   },
   {
     "url": "logo.gif",
